@@ -3,9 +3,13 @@ APP WEB MOVISTAR-FUNCIONAMIENTO
 1-Levantar el servidor local con Xampp y puedes crear ahi la base de datos MySql
 
 2-Instalar Laravel
+
 3-Copiar el directorio "movistar" a tu entorno de codigo
+
 4-levantar el servidor con  "php artisan serve"
+
 5-Ingresar a localhost ejm "http://localhost:8000/cliente"
+
 6-Visualizar app movistar
 
 -------------------
